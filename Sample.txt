@@ -1,0 +1,2 @@
+Hello to Selenium world
+This is the Git Practice session
